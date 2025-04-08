@@ -1,2 +1,2 @@
-vless://Android(26-04)@64.227.77.171:443?type=tcp&security=reality&pbk=caqvH-E28aby9bKgKbp1stQQH6X9yHZWSnlutYc3hRY&fp=chrome&sni=keep.google.com&sid=20&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1-Android(26-04)
-vless://Android(26-04)@139.59.159.195:443?type=tcp&security=reality&pbk=iYtpe0kuPxnN1Okyd0Cj1CPFBecYtlHUp7G8nsn4dmk&fp=chrome&sni=weather.com&sid=7b1de689cc84dc&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA-Android(26-04)
+vless://a6ce1788-feff-478b-b84a-f7d73a78e911@book.excellentandroid9.space:443?type=tcp&security=reality&pbk=o8DPuEnQc3qCLYfC8R0HaRMraEZjuqTW1FuoUxAxrFA&fp=chrome&sni=yandex.com&sid=95d16989&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA-Germani%C3%BDa
+vless://e45f9288-fb45-4483-8046-ed63bcf0d1d9@31.172.76.201:443?security=reality&encryption=none&pbk=I0h9JYet7lfzUwP3tQVn0jXDqAD6Ediqd7p4IPfwFAw&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=de3c81697eee1c3d#%F0%9F%87%B7%F0%9F%87%BA%20Russiya
