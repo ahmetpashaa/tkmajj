@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1c0h1eE1mRVZQNVhlUk83bW9HSGt4@cdn-ee3.etizer.net:8443#%F0%9F%87%AA%F0%9F%87%AA%20Amanmyradow
-vless://3b09aff9-5a1d-4bc5-852b-60c304578210@141.193.213.21:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA%20Amanmyradow
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1c0h1eE1mRVZQNVhlUk83bW9HSGt4@cdn-ee3.etizer.net:8443#%F0%9F%87%AA%F0%9F%87%AA%20Tallin
+vless://3b09aff9-5a1d-4bc5-852b-60c304578210@141.193.213.21:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt
 vless://54f69408-371e-4f42-a781-f0b546d35886@34.155.196.190:8443?mode=gun&security=reality&encryption=none&pbk=G-tXGiEX0abbRu0T9ULutD1DPnNywPmSN87LWtzMPkA&fp=chrome&spx=%2F&type=grpc&sni=zoom.us&sid=aad44b9c#%F0%9F%87%AB%F0%9F%87%B7%20Paris
+vless://3b09aff9-5a1d-4bc5-852b-60c304578210@104.17.102.182:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
