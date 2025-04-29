@@ -1,3 +1,4 @@
-vless://39cb29ce-df8b-4b93-927c-236942f605ba@185.146.173.20:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20%2822-05-2025%29
+trojan://Y2hiC3NCK0@34.116.187.1:46990?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1+Warshawa
 vless://91f084d7-8be1-4342-a3ca-e87b7b10c464@35.228.212.31:24542?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki
+vless://3b09aff9-5a1d-4bc5-852b-60c304578210@141.193.213.21:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA+Frankfurt
 vless://3b09aff9-5a1d-4bc5-852b-60c304578210@104.17.102.182:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
