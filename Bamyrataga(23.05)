@@ -1,4 +1,2 @@
-vless://115c6288-1ee7-4b52-850a-20599fb863f0@34.88.86.49:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=8HIXvQf8h0x-WMqcWWMppSyES8w91w8T7pzSij5sIXM&fp=chrome&spx=%2F&type=xhttp&sni=zoom.us&sid=739a#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNTJvc3Qya2doaGt1R1c5bzNOanpl@vpnnl01.fornex.org:8443#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
 vless://3b09aff9-5a1d-4bc5-852b-60c304578210@141.193.213.21:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA+Frankfurt
-vless://54f69408-371e-4f42-a781-f0b546d35886@34.155.196.190:8443?mode=gun&security=reality&encryption=none&authority=&pbk=G-tXGiEX0abbRu0T9ULutD1DPnNywPmSN87LWtzMPkA&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=zoom.us&sid=aad44b9c#%F0%9F%87%AB%F0%9F%87%B7+Paris
+trojan://Y2hiC3NCK0@34.116.187.1:46990?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1+Warshaw
