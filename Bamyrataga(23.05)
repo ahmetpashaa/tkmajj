@@ -1,4 +1,2 @@
-trojan://Y2hiC3NCK0@34.116.187.1:46990?security=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1+Warshawa
-vless://91f084d7-8be1-4342-a3ca-e87b7b10c464@35.228.212.31:24542?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki
-vless://3b09aff9-5a1d-4bc5-852b-60c304578210@141.193.213.21:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA+Frankfurt
-vless://3b09aff9-5a1d-4bc5-852b-60c304578210@104.17.102.182:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=yavuz&sni=de1fra9kjkszpj.excellentandroid9.space#%F0%9F%87%A9%F0%9F%87%AA%20Berlin
+vless://f60054b0-10fa-4b07-90c0-704c774cbe7e@play.google.com:443?path=google&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cloud-run-387803250262.europe-north1.run.app&fp=chrome&allowinsecure=0&type=ws&sni=play.google.com#%F0%9F%87%B9%F0%9F%87%B7+T%C3%BCrkiye
+vless://5c1a04eb-eff2-40df-af9a-bcd4214c96ed@104.18.21.63:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=yavuz&sni=war7pl9kjkszpj.excellentandroid9.space#%F0%9F%87%B5%F0%9F%87%B1+xPolonya
